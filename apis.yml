@@ -1,8 +1,23 @@
 aid: qiz-security
 name: Qiz Security
-description: 'Qiz Security is a company surfaced as a portfolio company of bessemer-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. Sector: cybersecurity. This profile is
-  a lead awaiting the enrichment pipeline.'
+description: 'QIZ Security is a cybersecurity company delivering a cryptography management platform for
+  quantum-safe security. The platform helps organizations discover, prioritize, remediate, and govern
+  their cryptographic assets across on-premises and cloud environments, making hidden cryptography visible
+  and preparing them for post-quantum cryptography (PQC) adoption. Founded by experts in cybersecurity,
+  networking, and post-quantum cryptography, QIZ Security is API-first and backed by Bessemer Venture
+  Partners, with offices in Lewes, Delaware (US) and Ra''anana, Israel.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/68aaf9f3e6a3075a7b880ab8/68c1ca80830ee247690e899e_qiz-logo.png
 url: https://raw.githubusercontent.com/api-evangelist/qiz-security/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +27,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Cybersecurity
+- Cryptography
+- Post-Quantum Cryptography
+- Quantum-Safe
+- Cryptographic Discovery
+- Compliance
+- Security
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +46,18 @@ maintainers:
 common:
 - type: Website
   url: https://qizsecurity.com/
+- type: PrivacyPolicy
+  url: https://qizsecurity.com/privacy-policy
+- type: TermsOfService
+  url: https://qizsecurity.com/terms-of-use
+- type: SignUp
+  url: https://qizsecurity.com/book-a-demo
+- type: DomainSecurity
+  url: security/qiz-security-domain-security.yml
+- type: LLMsTxt
+  url: llms/qiz-security-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

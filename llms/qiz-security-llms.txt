@@ -1,0 +1,19 @@
+# QIZ Security
+
+> QIZ Security is a cybersecurity company delivering a cryptography management platform for quantum-safe security. The platform discovers, prioritizes, remediates, and governs an organization's cryptographic assets across on-premises and cloud environments, and prepares organizations for post-quantum cryptography (PQC) adoption. It is API-first but does not currently publish a public developer portal or API reference. Backed by Bessemer Venture Partners.
+
+## Company
+- [Website](https://qizsecurity.com/): QIZ Security homepage
+- [Book a Demo](https://qizsecurity.com/book-a-demo): Request a product demonstration
+- [Careers](https://qizsecurity.com/careers): Open roles
+- [LinkedIn](https://www.linkedin.com/company/qizsecurity/): Company profile
+
+## Product
+- QIZ Cryptography Management Platform — Discover, Prioritize, Remediate, Govern cryptographic risk; unified cryptographic discovery and lifecycle management; post-quantum cryptography readiness.
+
+## Legal
+- [Privacy Policy](https://qizsecurity.com/privacy-policy)
+- [Terms of Use](https://qizsecurity.com/terms-of-use)
+
+## Notes
+- No public OpenAPI, MCP server, SDK/package registry entries, changelog, or developer documentation were found at enrichment time (2026-07-20). The site advertises an "API-first architecture" but the API is not publicly documented.
