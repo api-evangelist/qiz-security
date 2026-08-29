@@ -6,6 +6,17 @@ description: 'QIZ Security is a cybersecurity company delivering a cryptography 
   and preparing them for post-quantum cryptography (PQC) adoption. Founded by experts in cybersecurity,
   networking, and post-quantum cryptography, QIZ Security is API-first and backed by Bessemer Venture
   Partners, with offices in Lewes, Delaware (US) and Ra''anana, Israel.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
